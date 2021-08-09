@@ -12,7 +12,6 @@ function App() {
       text: 'Пример 2',
       completed: false,
     },
-    {
   ]);
 
   const onToggleCompleted = (index) => {
